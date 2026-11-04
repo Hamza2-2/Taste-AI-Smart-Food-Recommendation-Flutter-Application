@@ -1,0 +1,1 @@
+# Taste-AI-Smart-Food-Recommendation-Flutter-Application
